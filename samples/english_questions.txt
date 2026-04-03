@@ -1,0 +1,39 @@
+What are your opening hours?
+What time do you close?
+When are you open?
+
+How much does it cost?
+What is the price?
+How much do I need to pay?
+
+I want a refund
+How do I get my money back?
+Can I return this item?
+
+How do I contact support?
+I need to speak to someone
+What is your phone number?
+
+My account is not working
+I cannot log in
+I forgot my password
+
+Where is my order?
+When will my delivery arrive?
+My package has not arrived
+
+Thank you very much
+Thanks for your help
+I appreciate your assistance
+
+Hello there
+Hi good morning
+Hey how are you
+
+Goodbye
+See you later
+Bye have a good day
+
+I have a problem with my account
+Something is wrong with my subscription
+My account settings are not saving
